@@ -1,4 +1,4 @@
-package com.abhaykshatriya.ch01.structures;
+package com.abhaykshatriya.structures;
 
 public class SquareMatrix {
     private final int[][] a;

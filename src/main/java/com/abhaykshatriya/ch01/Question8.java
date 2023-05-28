@@ -1,7 +1,11 @@
 package com.abhaykshatriya.ch01;
 
-import com.abhaykshatriya.ch01.structures.Matrix;
+import com.abhaykshatriya.structures.Matrix;
 
+/**
+ * Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and
+ * column are set to 0.
+ */
 public class Question8 {
     public static void main(String[] args) {
         Matrix matrix = new Matrix(3, 4);
